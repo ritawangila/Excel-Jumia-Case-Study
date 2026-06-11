@@ -33,7 +33,7 @@ I focused on three things: finding our baseline performance, tracking how discou
 * **Average Discount:** 36.79%
 * **Average Rating:** 2.00 out of 5.00
 
-> ⚠️ **The Big Red Flag:** Even though products are moving and people are leaving reviews, an average rating of 2.00 is a major warning sign. It means there is a huge gap between what customers expect when they buy and what actually arrives in the mail.
+> **The Big Red Flag:** Even though products are moving and people are leaving reviews, an average rating of 2.00 is a major warning sign. It means there is a huge gap between what customers expect when they buy and what actually arrives in the mail.
 
 ### The Discount Trap
 When looking at the catalog, 56% of the products fall into the "High Discount" tier. Some items, like the 8-in-1 Bottle Can Opener, have discounts as high as 70%. This suggests that sellers are clearly relying on massive price cuts just to get people to click and buy.
