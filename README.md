@@ -1,7 +1,5 @@
 # Jumia Project Case Study: What Drives Product Success?
 
-### 🖥️ Interactive Dashboard Preview
-![Jumia Excel Dashboard](dashboard.png)
 
 ## 1. Project Overview
 I built this project to figure out what actually makes a product succeed on Jumia. Using a dataset of 113 products and 725 customer reviews, I wanted to look past the surface and see how pricing, massive discounts, and customer feedback interact. To do this, I took the data through a full cleanup process and built an interactive dashboard in Excel to make the numbers easy to read and work with.
